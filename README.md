@@ -9,6 +9,7 @@ This is a simple frontend clone of Amazon's homepage built using HTML, CSS, and 
 -> Fully responsive design.
 
 ## Technologies Used
+
 HTML
 CSS
 JavaScript
